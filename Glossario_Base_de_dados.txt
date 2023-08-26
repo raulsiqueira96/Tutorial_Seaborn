@@ -1,0 +1,93 @@
+Informacoes sobre as bases de dados:
+
+Sempre quando for uma coluna binária (0 ou 1), 1 significa 'sim' e 0 significa 'nao'
+
+Base Titanic:
+
+Survived: Sobreviveu (sim ou nao)
+pclass: qual classe a pessoa comprou a passagem
+sex: genero
+age: idade
+sibsp: se a pessoa tinha irmaos mais novos
+parch: ______
+fare: quanto pagou na passagem
+embarked: inicial da cidade que a pessoa embarcou
+class: mesmo que pclass, mas com nome escrito
+who: se era homem ou mulher
+adult_male: se é homem adulto
+deck: C significa que é captao
+embark_town: Em qual cidade ele embarcou
+alive: se sobreviveu ou nao
+alone: se estava sozinho ou nao
+
+________________
+
+Base Tips:
+
+total_bill: Total da conta
+tip: valor da gorjeta
+sex: sexo
+smoker: Se a pessoa é fumante
+day: dia da semana
+time: Qual refeicao
+size: _____
+
+________________
+
+Base Flights:
+
+year: Ano
+Month: Mes
+Passengers: quantidade de passageiros
+
+________________
+
+Base FMRI - Functional magnetic resonance imaging (Ressonância magnética funcional)
+
+subject: pessoa, paciente
+timepoint: tempo
+event: tipo de procedimento
+region: qual regiao do cerebro que foi feito o procedimento
+signal: qual sinal enviado.
+
+
+________________
+
+Glossário:
+
+data: qual base de dados
+kind: tipo do gráfico
+x: eixo x, horizontal
+y: eixo y, vertical
+hue: ver o grafico com mais de uma categoria
+style: Estilo do gráfico
+palette: Cores
+size: tamanho
+legend: legenda para o grafico
+marker: editar os marcadores do grafico
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
